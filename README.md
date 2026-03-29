@@ -15,7 +15,7 @@ Currently leading test automation for a large-scale enterprise merchant migratio
 - **Mobile Automation** — cross-device testing strategy and execution
 
 ---
-
+![Tests](https://github.com/VivekanandUsingh/api-test-framework/actions/workflows/api-tests.yml/badge.svg)
 ## 🚀 Featured Repos
 
 | Repo | What It Does | Stack |
