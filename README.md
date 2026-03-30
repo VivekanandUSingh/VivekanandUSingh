@@ -20,8 +20,8 @@ Currently leading test automation for a large-scale enterprise merchant migratio
 |Status | Repo | What It Does | Stack |
 |---|---|---|---|
 |![Tests](https://github.com/VivekanandUsingh/api-test-framework/actions/workflows/api-tests.yml/badge.svg) | [api-test-framework](https://github.com/VivekanandUSingh/api-test-framework) | Production-grade REST API test suite with data-driven testing, auth handling, and HTML reports | Python · pytest · Requests | 
+|![Tests](https://github.com/VivekanandUsingh/ci-cd-test-pipeline/actions/workflows/e2e-tests.yml/badge.svg)| [ci-cd-test-pipeline](https://github.com/VivekanandUSingh/ci-cd-test-pipeline) | End-to-end CI/CD pipeline with automated test execution, reporting, and Slack notifications | GitHub Actions · Playwright · Python 
 | |[mobile-automation-suite](https://github.com/VivekanandUSingh/mobile-automation-suite) | Cross-platform mobile test framework with device farm integration | Appium · Python · GitHub Actions |
-|![Tests](https://github.com/VivekanandUsingh/ci-cd-test-pipeline/actions/workflows/e2e-tests.yml/badge.svg)| [ci-cd-test-pipeline](https://github.com/VivekanandUSingh/ci-cd-test-pipeline) | End-to-end CI/CD pipeline with automated test execution, reporting, and Slack notifications | GitHub Actions · Playwright · Python |
 
 ---
 
